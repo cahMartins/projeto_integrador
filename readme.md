@@ -81,7 +81,7 @@ O sistema foi desenvolvido no framework Laravel que utiliza como base a linguage
 
 * Front-end
 
-Feito através das Views, com o auxilio do Boodstrap 3.
+Feito através das Views, com o auxilio do Bootstrap 3.
 
 * Back-end
 
@@ -120,5 +120,5 @@ As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
 * Laravel, para integrar todos os componentes no sistema;
 * Linguagem maioritaria PHP;
 * Heidi SQL, pois seu banco de dados dinâmico em MySQL nos proporcionou agilidade na criação de um banco de dados sólido.
-* Boodstrap 3, que auxiliou na parte de layout.
+* Bootstrap 3, que auxiliou na parte de layout.
 
