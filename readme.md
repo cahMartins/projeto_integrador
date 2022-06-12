@@ -14,16 +14,16 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 
 # Especificação de Requisitos
 
-| Requisitos Funcionais |
-|-----------------------|
-| Anexar arquivos de conclusão de curso; |
+| Requisitos Funcionais | | asd |
+|-----------------------| |-----|
+| Anexar arquivos de conclusão de curso; | | a |
 | Anexar arquivos de ficha de estágio; |
-| Cadastro de coordenador; |
 | Cadastro de aluno; |
-| Login de coordenador; |
+| Cadastro de coordenador; |
 | Login de aluno; |
+| Login de coordenador; |
 | Validação de carga horária (por parte do coordenador); |
-| Feedback de horas concluídas e pendentes (visualização do aluno). |
+| Visualizar feedback de horas concluídas e pendentes. |
 
 ### Ferramentas de desenvolvimento
 * Utilizamos o Laravel para integrar todos os componentes no sistema;
