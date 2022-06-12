@@ -126,7 +126,7 @@ As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
 
 A seguir estão os passos para testar a aplicação:
 * Clonar o arquivo do gitHub.
-* Adicionar no editor de código visual studio code(ou em algum de sua preferência).
+* Adicionar no editor de código Visual Studio Code (ou em alguma IDE de sua preferência).
 * Criar um banco de dados local com o nome **`projeto_integrador`**.
 * Acessar o arquivo .env que está localizado na raiz da aplicação, para configurar o acesso do banco de dados criado nos seguintes parâmetros:
 
