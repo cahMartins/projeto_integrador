@@ -6,11 +6,16 @@ Sistema de registro de horas complementares onde terão tipos diferentes de aces
 Projeto com finalidade de auxiliar no registro de horas complementares a fim de facilitar o gerenciamento do aluno e da faculdade em organizar as atividades extracurriculares.
 
 ### Integrantes
->>> * `Camila Martins` <DEV> | github.com/cahMartins
-    * `Jonathan Walace` <DEV> | github.com/JonathanWalace
-    * `Leonardo do Nascimento` <DEV> | github.com/LeonardoNSilva2
-    * `Patrícia Dias` <PO> | github.com/Paaty123
-    * `Raphael de Figueiredo` <PO> | github.com/RandyePX
+> * `Camila Martins` <DEV> | github.com/cahMartins
+   
+  * `Jonathan Walace` <DEV> | github.com/JonathanWalace
+   
+  * `Leonardo do Nascimento` <DEV> | github.com/LeonardoNSilva2
+   
+  * `Patrícia Dias` <PO> | github.com/Paaty123
+   
+  * `Raphael de Figueiredo` <PO> | github.com/RandyePX
+   
   
 
 ### Ferramentas de desenvolvimento
