@@ -1,0 +1,7 @@
+EQUIPE 
+
+>>>Camila Martins	|DEV|	 github.com/cahMartins|
+Jonathan Walace		|DEV|	 github.com/JonathanWalace|
+Leonardo do Nascimento	|DEV|	 github.com/LeonardoNSilva2|
+Patrícia Dias		|PRODUTO|github.com/Paaty123|
+Raphael de Figueiredo	|PRODUTO|github.com/RandyePX|

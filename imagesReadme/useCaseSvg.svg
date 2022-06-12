@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="179px" preserveAspectRatio="none" style="width:749px;height:179px;background:#FFFFFF;" version="1.1" viewBox="0 0 749 179" width="749px" zoomAndPan="magnify"><defs/><g><!--MD5=[a640ff6cccaee50f9921d9178869cd43]
+entity Coordenador--><g id="elem_Coordenador"><ellipse cx="502" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M502,22 L502,49 M489,30 L515,30 M502,49 L489,64 M502,49 L515,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="455.5" y="78.4951">Coordenador</text></g><!--MD5=[52ec6a8b74b13041fc2aa09119826c6e]
+entity Sistema--><g id="elem_Sistema"><ellipse cx="35" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M35,22 L35,49 M22,30 L48,30 M35,49 L22,64 M35,49 L48,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="58" x="6" y="78.4951">Sistema</text></g><!--MD5=[762ccb4f9f5957a77883729b52572e8d]
+entity Aluno--><g id="elem_Aluno"><ellipse cx="282" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M282,22 L282,49 M269,30 L295,30 M282,49 L269,64 M282,49 L295,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="262" y="78.4951">Aluno</text></g><!--MD5=[5bb58f447e60c14e9d23282c6a4405f4]
+entity ADM--><g id="elem_ADM"><ellipse cx="704" cy="14" fill="#F1F1F1" rx="8" ry="8" style="stroke:#181818;stroke-width:0.5;"/><path d="M704,22 L704,49 M691,30 L717,30 M704,49 L691,64 M704,49 L717,64 " fill="none" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="687.5" y="78.4951">ADM</text></g><g id="elem_VALIDAR"><ellipse cx="572.0799" cy="157.2511" fill="#F1F1F1" rx="57.0799" ry="14.7511" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="537.5799" y="160.9987">VALIDAR</text></g><g id="elem_LOGAR"><ellipse cx="431.8761" cy="157.6644" fill="#F1F1F1" rx="47.3761" ry="14.6644" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="403.8761" y="161.4119">LOGAR</text></g><g id="elem_ANEXAR"><ellipse cx="126.0937" cy="157.7277" fill="#F1F1F1" rx="54.0937" ry="14.7277" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="93.5937" y="161.4753">ANEXAR</text></g><g id="elem_VISUALIZAR"><ellipse cx="281.8142" cy="157.2628" fill="#F1F1F1" rx="66.8142" ry="15.7628" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="236.8142" y="161.0104">VISUALIZAR</text></g><g id="elem_NOTIFICAR"><ellipse cx="163.0594" cy="43.7119" fill="#F1F1F1" rx="64.0594" ry="15.2119" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="122.0594" y="47.4594">NOTIFICAR</text></g><g id="elem_CRUD"><ellipse cx="703.9237" cy="157.5719" fill="#F1F1F1" rx="39.9237" ry="14.5719" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="681.5405" y="161.1655">CRUD</text></g><!--MD5=[aa7c3d359a9e1dca64318e3b81453315]
+link Coordenador to VALIDAR--><g id="link_Coordenador_VALIDAR"><path d="M525.309,81.7944 C538.354,102.6665 553.847,127.4554 563.298,142.5768 " fill="none" id="Coordenador-VALIDAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7bbfed4236b41986f814d3bab3ddd691]
+link Coordenador to LOGAR--><g id="link_Coordenador_LOGAR"><path d="M478.691,81.7944 C465.487,102.921 449.775,128.0606 440.359,143.1257 " fill="none" id="Coordenador-LOGAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4e8b90eed9b8f554936b8261818c829b]
+link Aluno to LOGAR--><g id="link_Aluno_LOGAR"><path d="M302.23,59.605 C331.978,81.8167 387.003,122.9022 414.871,143.7102 " fill="none" id="Aluno-LOGAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c736997d048fc787411b6a615fcd8b09]
+link Aluno to ANEXAR--><g id="link_Aluno_ANEXAR"><path d="M261.805,65.666 C256.244,71.069 250.067,76.7022 244,81.5 C212.585,106.3442 172.646,130.3192 148.222,144.2247 " fill="none" id="Aluno-ANEXAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2b05baa5abe4d6538253d7e49e1ae4f6]
+link Aluno to VISUALIZAR--><g id="link_Aluno_VISUALIZAR"><path d="M282,81.7944 C282,102.1574 282,126.2485 282,141.4533 " fill="none" id="Aluno-VISUALIZAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[661b4c11d4082e9ff9406db9a5a3432d]
+link Sistema to NOTIFICAR--><g id="link_Sistema_NOTIFICAR"><path d="M64.25,43.5 C75.8223,43.5 87.3945,43.5 98.9668,43.5 " fill="none" id="Sistema-NOTIFICAR" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2dc68bd7653c5ad82bbf390e3e8efa71]
+link NOTIFICAR to Aluno--><g id="link_NOTIFICAR_Aluno"><path d="M227.148,43.5 C237.001,43.5 246.854,43.5 256.707,43.5 " fill="none" id="NOTIFICAR-to-Aluno" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="261.859,43.5,252.859,39.5,256.859,43.5,252.859,47.5,261.859,43.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3021655c58eb2eab1ba54e140f335d0f]
+link ADM to CRUD--><g id="link_ADM_CRUD"><path d="M704,81.7944 C704,102.7938 704,127.7579 704,142.8524 " fill="none" id="ADM-CRUD" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ceae9c0d655d90c4e41711a66b15c4b1]
+@startuml
+actor Coordenador
+actor Sistema
+actor Aluno
+actor ADM
+
+Coordenador - -  (VALIDAR)
+Coordenador - - (LOGAR)
+
+Aluno - - (LOGAR)
+Aluno - - (ANEXAR)
+Aluno - - (VISUALIZAR)
+
+Sistema -  (NOTIFICAR)
+(NOTIFICAR) -> Aluno
+
+ADM - - (CRUD)
+@enduml
+
+PlantUML version 1.2022.6beta5(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
