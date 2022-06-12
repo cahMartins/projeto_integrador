@@ -12,7 +12,17 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
   * `Patrícia Dias`   | PO | github.com/Paaty123   
   * `Raphael de Figueiredo`   | PO | github.com/RandyePX  
 
+# Especificação de Requisitos
 
+| Requisitos Funcionais |
+| Anexar arquivos de conclusão de curso; |
+| Anexar arquivos de ficha de estágio; |
+| Cadastro de coordenador; |
+| Cadastro de aluno; |
+| Login de coordenador; |
+| Login de aluno; |
+| Validação de carga horária (por parte do coordenador); |
+| Feedback de horas concluídas e pendentes (visualização do aluno). |
 
 ### Ferramentas de desenvolvimento
 * Utilizamos o Laravel para integrar todos os componentes no sistema;
