@@ -57,9 +57,8 @@ Nesse diagrama de classe podemos ver cadastrados os atributos e métodos das cla
 
 A prototipação foi parte essencial em nosso desenvolvimentos pois nos possibilitou uma prévia visualização do estado em que desejávamos o visual de nosso sistema.
 
-`Link do protótipo: ` https://www.figma.com/proto/QdLzYuIFa8GjjmXFFV4NBM/Projeto-RightTime?node-id=10%3A8&scaling=contain&page-id=0%3A1&starting-point-node-id=10%3A8
+`Link do protótipo:` https://www.figma.com/proto/QdLzYuIFa8GjjmXFFV4NBM/Projeto-RightTime?node-id=10%3A8&scaling=contain&page-id=0%3A1&starting-point-node-id=10%3A8
 
-<>
 
 ![Protótipo Login](/imagesReadme/Login.png "Tela de Protótipo - Login")
 > Protótipo da tela de login.
