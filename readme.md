@@ -77,7 +77,7 @@ A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos 
 
 ## Sistema
 
-O sistema foi completamente desenvolvido em Laravel vemos abaixo algumas das imagens finais.
+O sistema foi completamente desenvolvido em Laravel, vemos abaixo algumas das imagens do resultado final.
 
 ![Tela Login](/imagesReadme/telaLogin.jpg "Tela de Login")
 > Tela atual de login do sistema.
