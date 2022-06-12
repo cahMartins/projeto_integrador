@@ -14,7 +14,7 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 
 # Especificação de Requisitos
 
-**Requisitos Funcionais**
+### Requisitos Funcionais
 | Aluno |
 |-------|
 | Anexar arquivos de conclusão de curso; |
@@ -22,11 +22,14 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 | Login de aluno; |
 | Cadastro de aluno; |
 | Visualizar feedback de horas concluídas e pendentes. |
+
 | Coordenador |
 |-------------|
 | Login de coordenador; |
 | Cadastro de coordenador; |
 | Validação de carga horária. |
+
+
 
 ![Use-case](/imagesReadme/Use-case.png "Caso de uso")
 > Use case do sistema
