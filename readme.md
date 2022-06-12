@@ -15,22 +15,23 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 # Especificação de Requisitos
 
 ### Requisitos Funcionais
-| **Aluno** |
-|-------|
+| **ALUNO** |
+|-----------|
 | Anexar arquivos de conclusão de curso; |
 | Anexar arquivos de ficha de estágio; |
 | Login de aluno; |
 | Cadastro de aluno; |
 | Visualizar feedback de horas concluídas e pendentes. |
 
-| **Coordenador** |
-|-------------|
+| **COORDENADOR** |
+|-----------------|
 | Login de coordenador; |
 | Cadastro de coordenador; |
 | Validação de carga horária. |
 
-| **Requisitos não funcionais** |
-|-------------------------------|
+### Requisitos Não Funcionais
+| **SISTEMA** |
+|-------------|
 | Usabilidade; |
 | Responsividade; |
 | Segurança. |
