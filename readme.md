@@ -66,7 +66,7 @@ A prototipação foi parte essencial em nosso desenvolvimentos pois nos possibil
 ![Protótipo Cadastro](/imagesReadme/Cadastro.png "Tela de Protótipo - Cadastro")
 > Protótipo da tela de cadastro no sistema.
 
-![Protótipo Sistema](/imagesReadme/Tela principal.png "Tela de Protótipo - Principal")
+![Protótipo Sistema](/imagesReadme/Tela-principal.png "Tela de Protótipo - Principal")
 > Protótipo da tela principal do sistema.
 
 A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos visualizar o resultado final.
