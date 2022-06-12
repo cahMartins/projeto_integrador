@@ -31,6 +31,7 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 
 ### Requisitos não funcionais
 
+|-----------------------|
 | Login de coordenador; |
 | Cadastro de coordenador; |
 | Validação de carga horária. |
