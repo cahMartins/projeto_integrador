@@ -127,14 +127,13 @@ As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
 A seguir estão os passos para testar a aplicação:
 * Clonar o arquivo do gitHub.
 * Adicionar no editor de código visual studio code(ou em algum de sua preferência).
-* Criar um banco de dados local com o nome "projeto_integrador".
+* Criar um banco de dados local com o nome **`projeto_integrador`**.
 * Acessar o arquivo .env que está localizado na raiz da aplicação, para configurar o acesso do banco de dados criado nos seguintes parâmetros:
 
-DB_USERNAME=
-DB_PASSWORD=
+> DB_USERNAME=
+> DB_PASSWORD=
 
 * Acessar o terminal e ir até o caminho que a aplicação está.
-* Executar o comando "php artisan migrate:refresh --seed" que cria as tabelas no banco de dados configurado.
-* Executar o comando "php artisan serve", que inicia a aplicação.
-* Acessar a url "http://127.0.0.1:8000".
-
+* Executar o comando `php artisan migrate:refresh --seed` que cria as tabelas no banco de dados configurado.
+* Executar o comando `php artisan serve`, que inicia a aplicação.
+* Acessar a url `http://127.0.0.1:8000`.
