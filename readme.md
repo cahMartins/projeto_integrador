@@ -130,8 +130,9 @@ A seguir estão os passos para testar a aplicação:
 * Criar um banco de dados local com o nome **`projeto_integrador`**.
 * Acessar o arquivo .env que está localizado na raiz da aplicação, para configurar o acesso do banco de dados criado nos seguintes parâmetros:
 
-> DB_USERNAME=
-> DB_PASSWORD=
+> DB_USERNAME= 
+
+> DB_PASSWORD= 
 
 * Acessar o terminal e ir até o caminho que a aplicação está.
 * Executar o comando `php artisan migrate:refresh --seed` que cria as tabelas no banco de dados configurado.
