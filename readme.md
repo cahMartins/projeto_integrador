@@ -15,6 +15,7 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 # Especificação de Requisitos
 
 | Requisitos Funcionais |
+|-----------------------|
 | Anexar arquivos de conclusão de curso; |
 | Anexar arquivos de ficha de estágio; |
 | Cadastro de coordenador; |
