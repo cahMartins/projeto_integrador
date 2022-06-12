@@ -5,4 +5,4 @@ Sistema de registro de horas complementares onde terão tipos diferentes de aces
 
  ![Logo] (/imagesReadme/Logo.png "Right Time Logo")
 
-<img src="/imagesReadme/Logo.png" width="200" height="100">
+<img src="/imagesReadme/Logo.png" width="200" height="100"> Right Time Logo
