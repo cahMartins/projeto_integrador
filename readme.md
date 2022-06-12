@@ -77,7 +77,20 @@ A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos 
 
 ## Sistema
 
-O sistema foi completamente desenvolvido em Laravel, vemos abaixo algumas das imagens do resultado final.
+O sistema foi desenvolvido no framework Laravel que utiliza como base a linguagem php, juntamente com o modelo MVC(Model-View-Controller).
+
+* Front-end
+
+Feito através das Views, com o auxilio do Boodstrap 3.
+
+* Back-end
+
+Feito através dos Controllers com métodos em liguagem php, acessados por Rotas.
+
+* Banco de dados
+
+A conexão com o banco de dados MySQL é feita atráves do próprio Laravel no arquivo .env. 
+A criação das tabelas também é feita no Laravel com as migrations, que possíbilita a manipulação do banco de dados pelo código.
 
 ![Tela Login](/imagesReadme/telaLogin.jpg "Tela de Login")
 > Tela atual de login do sistema.
@@ -106,5 +119,6 @@ Nessa imagem podemos visualizar que foi anexado ao sistema um arquivo de texto c
 As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
 * Laravel, para integrar todos os componentes no sistema;
 * Linguagem maioritaria PHP;
-* Heidi SQL, pois seu banco de dados dinâmico nos proporcionou agilidade na criação de um banco de dados sólido.
+* Heidi SQL, pois seu banco de dados dinâmico em MySQL nos proporcionou agilidade na criação de um banco de dados sólido.
+* Boodstrap 3, que auxiliou na parte de layout.
 
