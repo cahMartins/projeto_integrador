@@ -47,7 +47,7 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
 
 O sistema notificará o aluno cadastrado sobre o prazo de envio de suas horas complementares e caso uma atividade já tenha sido enviada irá notificar sobre a validação de suas horas. O aluno poderá fazer login, anexar arquivos a plataforma e visualizar suas horas. O coordenador poderá fazer login e validar as atividades cadastradas pelo aluno. O administrador será responsável por fazer o cadastro da escolas que utilizam a plataforma.
 
-### Diagrame de classe
+### Diagrama de classe
 ![Diagrama-de-classe](/imagesReadme/Diagrama-de-classe.png "Diagrama de Classe")
 > Diagrama de classe do sistema.
 
