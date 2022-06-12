@@ -77,7 +77,30 @@ A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos 
 
 ## Sistema
 
+O sistema foi completamente desenvolvido em Laravel vemos abaixo algumas das imagens finais.
 
+![Tela Login](/imagesReadme/telaLogin.jpg "Tela de Login")
+> Tela atual de login do sistema.
+
+Nessa tela o aluno irá utilizar seu acesso para entrar na plataforma.
+
+![Tela Registro](/imagesReadme/telaRegistro.jpg "Tela de Registro")
+> Tela atual de registro do sistema.
+
+Nesse tela serão registrados os alunos do sistema.
+
+![Tela Principal](/imagesReadme/telaPrincipal.jpg "Tela Principal")
+> Tela principal do sistema.
+
+Principal tela do sistema, onde o aluno estará apto a visualizar a carga horária de seu curso, verificar suas horas pendentes de entrega, checar suas horas já enviadas e onde ele poderá enviar seus arquivos anexados com o total de horas de participação.
+
+![Tela Principal](/imagesReadme/telaPrincipal2.jpg "Tela Principal")
+> Tela principal do sistema com o envio de uma atividade para análise.
+
+Nessa imagem podemos visualizar que foi anexado ao sistema um arquivo de texto com seu nome, tipo, data e hora de envio para a análise do coordenador. Ao clicar no nome do anexo enviado o arquivo irá baixar automaticamente em seu computador para futuras necessidades de visualização do documento.
+
+![Tela Principal Responsiva](/imagesReadme/responsivo2.jpg "Tela Principal Responsiva")
+> Tela principal do sistema com o conforto da responsividade.
 
 ### Ferramentas de desenvolvimento
 As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
