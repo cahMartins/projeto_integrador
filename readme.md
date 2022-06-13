@@ -45,7 +45,7 @@ Projeto com finalidade de auxiliar no registro de horas complementares a fim de 
   * Coordenador
   * Administrador
 
-O sistema notificará o aluno cadastrado sobre o prazo de envio de suas horas complementares e caso uma atividade já tenha sido enviada irá notificar sobre a validação de suas horas. O aluno poderá fazer login, anexar arquivos a plataforma e visualizar suas horas. O coordenador poderá fazer login e validar as atividades cadastradas pelo aluno. O administrador será responsável por fazer o cadastro da escolas que utilizam a plataforma.
+O sistema notificará o aluno cadastrado sobre o prazo de envio de suas horas complementares e caso uma atividade já tenha sido enviada irá notificar sobre a validação de suas horas. O aluno poderá fazer login, anexar arquivos a plataforma e visualizar suas horas. O coordenador poderá fazer login e validar as atividades cadastradas pelo aluno. O administrador será responsável por fazer o cadastro das escolas que utilizam a plataforma.
 
 ### Diagrama de classe
 ![Diagrama-de-classe](/imagesReadme/Diagrama-de-classe.png "Diagrama de Classe")
@@ -55,7 +55,7 @@ Nesse diagrama de classe podemos ver cadastrados os atributos e métodos das cla
 
 ### Prototipação
 
-A prototipação foi parte essencial em nosso desenvolvimentos pois nos possibilitou uma prévia visualização do estado em que desejávamos o visual de nosso sistema.
+A prototipação foi parte essencial em nosso desenvolvimento pois nos possibilitou uma prévia visualização do estado em que desejávamos o visual de nosso sistema.
 
 `Link do protótipo:` https://www.figma.com/proto/QdLzYuIFa8GjjmXFFV4NBM/Projeto-RightTime?node-id=10%3A8&scaling=contain&page-id=0%3A1&starting-point-node-id=10%3A8
 
@@ -69,7 +69,7 @@ A prototipação foi parte essencial em nosso desenvolvimentos pois nos possibil
 ![Protótipo Sistema](/imagesReadme/Tela-principal.png "Tela de Protótipo - Principal")
 > Protótipo da tela principal do sistema.
 
-A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos visualizar o resultado final.
+A prototipação foi totalmente desenvolvida no Figma e mais a frente poderemos visualizar o resultado do sistema.
 
 # Desenvolvimento do sistema
 
@@ -81,16 +81,16 @@ O sistema foi desenvolvido no framework Laravel que utiliza como base a linguage
 
 * Front-end
 
-Feito através das Views, com o auxilio do Bootstrap 3.
+Feito através das Views, com o auxílio do Bootstrap 3.
 
 * Back-end
 
-Feito através dos Controllers com métodos em liguagem php, acessados por Rotas.
+Feito através dos Controllers com métodos em linguagem php, acessados por Rotas.
 
 * Banco de dados
 
-A conexão com o banco de dados MySQL é feita atráves do próprio Laravel no arquivo .env. 
-A criação das tabelas também é feita no Laravel com as migrations, que possíbilita a manipulação do banco de dados pelo código.
+A conexão com o banco de dados MySQL é feita através do próprio Laravel no arquivo .env. 
+A criação das tabelas também é feita no Laravel com as migrations, que possibilita a manipulação do banco de dados pelo código.
 
 ![Tela Login](/imagesReadme/telaLogin.jpg "Tela de Login")
 > Tela atual de login do sistema.
@@ -100,7 +100,7 @@ Nessa tela o aluno irá utilizar seu acesso para entrar na plataforma.
 ![Tela Registro](/imagesReadme/telaRegistro.jpg "Tela de Registro")
 > Tela atual de registro do sistema.
 
-Nesse tela serão registrados os alunos do sistema.
+Nessa tela serão registrados os alunos do sistema.
 
 ![Tela Principal](/imagesReadme/telaPrincipal.jpg "Tela Principal")
 > Tela principal do sistema.
@@ -118,7 +118,7 @@ Nessa imagem podemos visualizar que foi anexado ao sistema um arquivo de texto c
 ### Ferramentas de desenvolvimento
 As ferramentas abaixo nos proporcionaram facilidade em desenvolver o sistema:
 * Laravel, para integrar todos os componentes no sistema;
-* Linguagem maioritaria PHP;
+* Linguagem majoritária PHP;
 * Heidi SQL, pois seu banco de dados dinâmico em MySQL nos proporcionou agilidade na criação de um banco de dados sólido.
 * Bootstrap 3, que auxiliou na parte de layout.
 
